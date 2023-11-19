@@ -24,6 +24,7 @@ To run the LLM and LangChain Test, You need to make a config_file.json for the s
 Mine's structure for example:
 
 {
+
 	"OPENAI_API_TYPE": "your_api_type",
 
 	"OPENAI_API_VERSION": "your_api_version",
