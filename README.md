@@ -25,12 +25,20 @@ Mine's structure for example:
 
 {
 	"OPENAI_API_TYPE": "your_api_type",
+
 	"OPENAI_API_VERSION": "your_api_version",
+
 	"OPENAI_API_BASE": "your_api_base",
+
 	"OPENAI_API_KEY": "your_api_key",
+
 	"engine": "you_engine",
+
 	"SenderEmail": "your_email@gmail.com",
+
 	"SenderPassword": "************",
+
 	"RecepientEmail": "recepient.email",
+
 	"ZapierApiKey": "your_zapier_api_key"
 }
