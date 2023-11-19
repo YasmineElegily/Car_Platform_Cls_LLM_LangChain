@@ -22,7 +22,7 @@ So I decided to do:
 This is the link to the resampled data: "https://drive.google.com/file/d/1-xcNvK21bjEHE087EgpvntJ2BYd7UnJR/view?usp=drive_link"
 
 # Instructions
-To run the LLM and LangChain Test, You need to make a config_file.json for the sensitive data to not be exposed.
+- To run the LLM and LangChain Test, You need to make a config_file.json for the sensitive data to not be exposed.
 Mine's structure for example:
 
 {
@@ -45,3 +45,5 @@ Mine's structure for example:
 
 	"ZapierApiKey": "your_zapier_api_key"
 }
+- Also, In order to send the email using Zapier, you need to get a Zapier API key which I got from signing up on Zapier and heading to Zapier Integration. Here's the link:
+"https://zapier.com/apps?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_brand_alldev_prospecting_long-tail_d2-ads&utm_adgroup=brand_integrations&utm_term=zappier%20integrations&utm_content=1005393&gad_source=1&gclid=CjwKCAiAgeeqBhBAEiwAoDDhn3gsV4CYW_3NCUfUkaDcJWDeb-IQGjXHVhDEkMOO9_oHVsQq7zhDOhoCkC4QAvD_BwE"
