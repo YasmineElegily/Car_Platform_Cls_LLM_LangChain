@@ -9,7 +9,7 @@ So I decided to do:
 2) Weighting Classes in the model training
 3) Fine-Tuning a Pre-trained Model
 4) Drop-out and Kernel Regularization to decrease overfitting
-*More approaches I tried to mitigate huge data imbalance*:\
+*More approaches I tried to mitigate huge data imbalance*:
 5) Try the Focal Loss Function
 6) Try LearningRateScheduler
 7) Ensemble modeling
