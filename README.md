@@ -2,7 +2,9 @@
 Improving our online car-selling platform by allowing users to add cars with images, text descriptions, and prices for a more convenient selling experience. 
 
 This is the link to the data: "https://drive.google.com/file/d/1gibdLQwr8JkgTy2ek_pvK3_xF6ZbytaE/view?usp=sharing"
+
 This is the link to the best model yet weights: "https://drive.google.com/file/d/1Zwkxc3d6HV3aAUYD8gex0lw_Cc3EJFk7/view?usp=sharing"
+
 After observing the data and reading the data_info.txt file about it I noticed very small classes like 'Van', 'Wagon' & 'Minivan'.
 So I decided to do:
 1) Data Augmentation
