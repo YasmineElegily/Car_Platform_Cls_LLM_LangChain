@@ -1,9 +1,9 @@
 # Car_Platform_VGG19_LLM_LangChain
 Improving our online car-selling platform by allowing users to add cars with images, text descriptions, and prices for a more convenient selling experience.\
 ## 	Car Images data versions and classification model:
-	* Link to the original data: "https://drive.google.com/file/d/1gibdLQwr8JkgTy2ek_pvK3_xF6ZbytaE/view?usp=sharing" \
-	* Link to the resampled data: "https://drive.google.com/file/d/1-xcNvK21bjEHE087EgpvntJ2BYd7UnJR/view?usp=drive_link" \
-	* Link to the model: "https://drive.google.com/file/d/1pCeCjFwNQxPW3U2SR_j9n7SB9-BBJWLW/view?usp=drive_link" \
+	* Link to the original data: "https://drive.google.com/file/d/1gibdLQwr8JkgTy2ek_pvK3_xF6ZbytaE/view?usp=sharing" 
+	* Link to the resampled data: "https://drive.google.com/file/d/1-xcNvK21bjEHE087EgpvntJ2BYd7UnJR/view?usp=drive_link" 
+	* Link to the model: "https://drive.google.com/file/d/1pCeCjFwNQxPW3U2SR_j9n7SB9-BBJWLW/view?usp=drive_link"
 
 
 ##	Car image classification Model:
