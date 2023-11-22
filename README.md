@@ -1,5 +1,5 @@
 # Car_Platform_VGG19_LLM_LangChain
-Improving our online car-selling platform by allowing users to add cars with images, text descriptions, and prices for a more convenient selling experience.\
+Improving our online car-selling platform by allowing users to add cars with images, text descriptions, and prices for a more convenient selling experience.
 ## 	Car Images data versions and classification model:
 	* Link to the original data: "https://drive.google.com/file/d/1gibdLQwr8JkgTy2ek_pvK3_xF6ZbytaE/view?usp=sharing" 
 	* Link to the resampled data: "https://drive.google.com/file/d/1-xcNvK21bjEHE087EgpvntJ2BYd7UnJR/view?usp=drive_link" 
@@ -13,7 +13,7 @@ So I decided to do:
 2) Weighting Classes in the model training
 3) Fine-Tuning a Pre-trained Model
 4) Drop-out and Kernel Regularization to decrease overfitting\
- *More approaches I tried to mitigate huge data imbalance*:\
+ *More approaches I tried to mitigate huge data imbalance*:
 6) Try the Focal Loss Function\
 7) Try LearningRateScheduler\
 8) Ensemble modeling\
