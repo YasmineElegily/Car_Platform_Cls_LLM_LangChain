@@ -1,5 +1,9 @@
 # Car_Platform_VGG19_LLM_LangChain
 Improving our online car-selling platform by allowing users to add cars with images, text descriptions, and prices for a more convenient selling experience.
+
+##	Solution Design Diagram
+![image](https://github.com/YasmineElegily/Car_Platform_Cls_LLM_LangChain/assets/69461886/d2417204-e8a9-4808-aabd-a83f5c5e3364)
+
 ## 	Car Images data versions and classification model:
 	* Link to the original data: "https://drive.google.com/file/d/1gibdLQwr8JkgTy2ek_pvK3_xF6ZbytaE/view?usp=sharing" 
 	* Link to the resampled data: "https://drive.google.com/file/d/1-xcNvK21bjEHE087EgpvntJ2BYd7UnJR/view?usp=drive_link" 
@@ -31,3 +35,11 @@ So I decided to do:
 2) Label Encoder
 	* I uploaded the label encoder to the Repo
 3) Your "OPENAI_API_KEY" stored safely in config_file.json
+
+## 	Solution Demo:
+
+
+https://github.com/YasmineElegily/Car_Platform_Cls_LLM_LangChain/assets/69461886/3154cda1-aa20-4bb0-b7c8-f41f6ba54134
+
+
+*Note: Write at least 1 digit after pasting the car description to Gradio's textbox.*\
