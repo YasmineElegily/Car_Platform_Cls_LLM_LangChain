@@ -1,8 +1,8 @@
 # Car_Platform_VGG19_LLM_LangChain
 Improving our online car-selling platform by allowing users to add cars with images, text descriptions, and prices for a more convenient selling experience.
-Link to the original data: "https://drive.google.com/file/d/1gibdLQwr8JkgTy2ek_pvK3_xF6ZbytaE/view?usp=sharing"\
-Link to the resampled data: "https://drive.google.com/file/d/1-xcNvK21bjEHE087EgpvntJ2BYd7UnJR/view?usp=drive_link"\
-Link to the model: "https://drive.google.com/file/d/1pCeCjFwNQxPW3U2SR_j9n7SB9-BBJWLW/view?usp=drive_link"
+	*Link to the original data: "https://drive.google.com/file/d/1gibdLQwr8JkgTy2ek_pvK3_xF6ZbytaE/view?usp=sharing" \
+	*Link to the resampled data: "https://drive.google.com/file/d/1-xcNvK21bjEHE087EgpvntJ2BYd7UnJR/view?usp=drive_link" \
+	*Link to the model: "https://drive.google.com/file/d/1pCeCjFwNQxPW3U2SR_j9n7SB9-BBJWLW/view?usp=drive_link" \
 
 
 ##	Car image classification Model:
@@ -27,10 +27,8 @@ So I decided to do:
 
 **To run the Car_Selling_Platform_Gradio_Demo, you need:**
 
-	1) Pre-trained Car Classification Saved Model that I uploaded to my Google Drive
+1) Pre-trained Car Classification Saved Model that I uploaded to my Google Drive
 	* Link to the model: "https://drive.google.com/file/d/1pCeCjFwNQxPW3U2SR_j9n7SB9-BBJWLW/view?usp=drive_link"
-
-	2) Label Encoder
+2) Label Encoder
 	* I uploaded the label encoder to the Repo
-
-	3) Your "OPENAI_API_KEY" stored safely in config_file.json
+3) Your "OPENAI_API_KEY" stored safely in config_file.json
