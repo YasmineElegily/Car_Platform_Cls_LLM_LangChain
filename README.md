@@ -17,12 +17,12 @@ So I decided to do:
 2) Weighting Classes in the model training
 3) Fine-Tuning a Pre-trained Model
 4) Drop-out and Kernel Regularization to decrease overfitting\
- *More approaches I tried to mitigate huge data imbalance*:
-6) Try the Focal Loss Function\
-7) Try LearningRateScheduler\
-8) Ensemble modeling\
-9) Re-weighting Classes\
-10) Resample the lowest classes on Roboflow.\
+ *More approaches I tried to mitigate huge data imbalance*:\
+6) Try the Focal Loss Function
+7) Try LearningRateScheduler
+8) Ensemble modeling
+9) Re-weighting Classes
+10) Resample the lowest classes on Roboflow.
 
 
 ##	Demo Instructions:
@@ -42,4 +42,4 @@ So I decided to do:
 https://github.com/YasmineElegily/Car_Platform_Cls_LLM_LangChain/assets/69461886/3154cda1-aa20-4bb0-b7c8-f41f6ba54134
 
 
-*Note: Write at least 1 digit after pasting the car description to Gradio's textbox.*\
+*Note: Write at least 1 digit after pasting the car description to Gradio's textbox.*
